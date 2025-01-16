@@ -12,4 +12,5 @@ info["surname"] = "Mitul" #assign new
 
 print(info)
 print(type(info))
+
 print(info["marks"])
